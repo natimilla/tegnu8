@@ -789,12 +789,12 @@ footer{
         right:60px;
         font-size: 52px;
         padding:5px;
-        margin-left:31px;
+        margin-left:33px;
         text-align: center;
       
     }
     nav #logo{
-        margin: 30px 20px 30px 30px;
+        margin: 30px 20px 30px 20px;
         width: 80px;
         height: 80px;
         border-radius: 50px;
